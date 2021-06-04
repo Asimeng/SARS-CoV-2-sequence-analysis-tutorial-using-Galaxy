@@ -49,9 +49,11 @@ For an introduction to Galaxy, consult the [intro material](https://training.gal
 13. Phylogenetic lineage designation with **Nextclade**. 
 
 Note: When you excute your run take note of the following colors:
-    - Grey color will indicate waiting job
-    - Yellow color indicates running 
-    - Red color will indicate an error
-    - Green color will mean completed 
+color | Description
+----- | ----------- 
+Grey | waiting job
+Yellow | running 
+Red | error
+Green | completed 
 
 
