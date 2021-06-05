@@ -56,5 +56,6 @@ Yellow | running
 Red | error
 Green | completed 
 
-See the ![workflow diagram](https://github.com/mudiboevans/SARS-CoV-2-sequence-analysis-tutorial-using-Galaxy/blob/main/image.png) below for the illustration of the above steps.
+See the below for the illustration of the above steps.
+![workflow diagram](https://github.com/mudiboevans/SARS-CoV-2-sequence-analysis-tutorial-using-Galaxy/blob/main/image.png) 
 
