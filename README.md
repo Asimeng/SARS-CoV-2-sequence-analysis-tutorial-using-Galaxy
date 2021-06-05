@@ -1,6 +1,6 @@
 # SARS-CoV-2-sequence-analysis-tutorial-using-Galaxy
 The aim of this project is to create a tutorial on SARS-CoV-2 sequence analysis using Galaxy and ARTIC protocol Illumina sequencing data. 
-This tutorial guide will be important for those computing and bioinformatics background.
+This tutorial guide will be important for those without computing and bioinformatics background.
 
 For some background, the [US CDC COVID-19 Genomic Epidemiology Toolkit](https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html) provides videos on **What is genomic epidemiology?** and **The SARS-CoV-2 genome**. SARS-CoV-2 is the virus that causes the disease COVID-19. The ARTIC sequencing protocol is described in this [video](https://www.youtube.com/watch?v=7733_Hs-VQo) by Dr Josh Quick, taken from the [CLIMB-BIG-DATA / ARTICnetwork workshop in January 2021](https://www.climb.ac.uk/artic-and-climb-big-data-joint-workshop/). 
 
