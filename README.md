@@ -21,7 +21,7 @@ For an introduction to Galaxy, consult the [intro material](https://training.gal
     - Reference genome select *Use a genome from history and build index* from the drop down arrow
     - Select *paired collection* from the Single or Paired-end reads drop down arrow
     - Select the first and second set of reads appropriately
-5. Commpute mapping statistics using **samtools stats**. Search for this tool in the search tools icon of Galaxy.
+5. Compute mapping statistics using **samtools stats**. Search for this tool in the search tools icon of Galaxy.
 6. Trimming the aligned BAM reads with **ivar trim**. Search for this tool in the search tools icon of Galaxy.
     - Input is bam dataset
     - Select *Built-in* from the Source of primer information
