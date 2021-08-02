@@ -59,3 +59,5 @@ Green | completed
 See the schematic illustration of the above steps.
 ![workflow diagram](https://github.com/mudiboevans/SARS-CoV-2-sequence-analysis-tutorial-using-Galaxy/blob/main/image.png) 
 
+<See the above flow diagram>
+
